@@ -1,4 +1,4 @@
-package JavaLearning.Collections;
+package JavaLearning.myCollections;
 
 import java.util.Collection;
 import java.util.HashMap;
